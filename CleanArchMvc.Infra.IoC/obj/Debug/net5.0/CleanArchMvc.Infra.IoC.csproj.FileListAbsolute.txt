@@ -17,3 +17,6 @@ C:\Users\a.lemos\Desktop\Estudos .NET\Projeto Clean Archictecture\CleanArchMvc\C
 C:\Users\a.lemos\Desktop\Estudos .NET\Projeto Clean Archictecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
 C:\Users\a.lemos\Desktop\Estudos .NET\Projeto Clean Archictecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
 C:\Users\a.lemos\Desktop\Estudos .NET\Projeto Clean Archictecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\Projeto Clean Archictecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
+C:\Users\a.lemos\Desktop\Estudos .NET\Projeto Clean Archictecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.dev.json
+C:\Users\a.lemos\Desktop\Estudos .NET\Projeto Clean Archictecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache
